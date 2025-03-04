@@ -38,6 +38,16 @@ English (EN):
 - Platform: Android, iOS
 - API: PHP / JSON
 This system is developed using Flutter for two different platforms.
+* get: ^4.6.6: State management and dependency injection.
+* provider: ^6.0.5: For state management.
+* dio: ^5.4.0: A popular HTTP client for making requests.
+* url_strategy: ^0.2.0: URL configuration and routing.
+* chewie: ^1.8.5: A Flutter widget for video playback.
+* intl: ^0.20.1: Internationalization support.
+* shared_preferences: ^2.3.4: Store user preferences locally.
+* image_gallery_saver_plus: ^3.0.5: Save images to the gallery.
+* permission_handler: ^11.3.1: Manage permissions for device features.
+* path_provider: ^2.1.5: Get paths to device storage directories.
 
 ## DEMO
 Download story_viewer.apk Or Click [Android APK DEMO](https://github.com/berkorhanbeta/instagram-story-viewer/raw/main/story-viewer.apk)
